@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmaanMeer
-- 👀 I’m interested in python,C++,competitive coding, Machine Learning and Deep Learning
-- 🌱 I’m currently learning python, ML,DL,Tensorflow and OpenCV.
-- 💞️ I’m looking to collaborate on any fun projects maybe related to Machine Learning .
+- 👀 I’m interested in Embedded, EmbeddedML, Edge ML, Machine Learning, Deep Learning and Computer Vision
+- 🌱 I’m currently learning Embedded Systems, Edge and Machine Learning
+- 💞️ I’m looking to collaborate on any fun projects in the domain of embedded systems and ML
 - 📫 How to reach me:you can mail me at optimusamaan@gmail.com/ amaan2010905@ssn.edu.in
 -Noob hoping to turn pro soon
 <!---
